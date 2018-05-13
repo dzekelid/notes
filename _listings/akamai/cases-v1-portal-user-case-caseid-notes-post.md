@@ -1,8 +1,11 @@
 ---
 swagger: "2.0"
 info:
-  title: Akamai Merged API
+  title: Akamai API Comment on a Case
+  description: Comment on a Case
   version: 1.0.0
+host: developer.akamai.com
+basePath: /
 schemes:
 - http
 produces:
@@ -16,7 +19,7 @@ paths:
       description: Comment on a Case
       operationId: casesv1portalusercasecaseidnotes
       parameters:
-      - in: String
+      - in: query
         name: caseId
         description: Unique identifier for the support ticket
         type: string
