@@ -39,6 +39,26 @@ x-common:
   url: https://twitter.com/pagerduty
 - type: x-website
   url: http://www.pagerduty.com
+- type: x-base
+  url: https://acme.pagerduty.com/api/
+- type: x-blog
+  url: http://blog.pagerduty.com/
+- type: x-blog-rss
+  url: http://blog.pagerduty.com/feed/
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/pagerduty
+- type: x-developer
+  url: http://developer.pagerduty.com/
+- type: x-github
+  url: https://github.com/PagerDuty
+- type: x-openapi-spec--authoritative
+  url: https://api-reference.pagerduty.com/output.json
+- type: x-pricing
+  url: https://www.pagerduty.com/pricing/
+- type: x-twitter
+  url: https://twitter.com/pagerduty
+- type: x-website
+  url: http://www.pagerduty.com
 include: []
 maintainers:
 - FN: Kin Lane
