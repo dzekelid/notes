@@ -1,0 +1,660 @@
+{
+	"name": "Streadata.io API Gallery - Notes",
+	"description": "This is a repository of notes APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/notes.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://notes.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Twilio",
+			"x-api-slug": "twilio",
+			"description": "Cloud communications platform for building SMS, Voice & Messaging applications on an API built for global scale. Get started with a free trial.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg",
+			"humanURL": "http://www.twilio.com",
+			"baseURL": "https://api.twilio.com//2010-04-01/",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/twilio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Evernote",
+			"x-api-slug": "evernote",
+			"description": "Organize your work and declutter your life. With Evernote on your desktop and mobile devices, your notes are always with you and always in sync.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/194-evernote-developers.jpg",
+			"humanURL": "http://evernote.com/",
+			"baseURL": "https:///",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/evernote/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Facebook",
+			"x-api-slug": "facebook",
+			"description": "Create an account or log into Facebook. Connect with friends, family and other people you know. Share photos and videos, send messages and get updates.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/196-facebook.jpg",
+			"humanURL": "http:///business",
+			"baseURL": "https:///",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/facebook/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Stripe",
+			"x-api-slug": "stripe",
+			"description": "Online payment processing for internet businesses. Stripe is a suite of payment APIs that powers commerce for online businesses of all sizes, including fraud prevention, and subscription management. Use Stripes payment platform to accept and process p...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe.jpg",
+			"humanURL": "https://stripe.com/",
+			"baseURL": "https://api.stripe.com/v1/",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/stripe/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MasterCard",
+			"x-api-slug": "mastercard",
+			"description": "Mastercard is a leading global payments & technology company that connects consumers, businesses, merchants, issuers & governments around the world.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/366-mastercard.jpg",
+			"humanURL": "https://developer.mastercard.com/",
+			"baseURL": "https://eas5stl0.mastercard.int:13046//z0/core/v1",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/mastercard/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BigOven",
+			"x-api-slug": "bigoven",
+			"description": "Free recipe app for home cooks. Create a meal plan, grocery list and more from your favorite recipes. Organize your recipe collection and take it anywhere.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/379-bigoven.jpg",
+			"humanURL": "http://www.bigoven.com",
+			"baseURL": "https://api2.bigoven.com//",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/bigoven/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Atlassian",
+			"x-api-slug": "atlassian",
+			"description": "Millions of users globally rely on Atlassian products every day for improving software development, project management, collaboration, and code quality.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg",
+			"humanURL": "http://atlassian.com/",
+			"baseURL": "https:////",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/atlassian/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "VersaPay",
+			"x-api-slug": "versapay",
+			"description": "VersaPay handles elements of both credit and debit card merchant payment processing in Canada. In offering a host of merchant account services and credit card POS terminals it allows for an efficient merchant payment service in all aspects- in person, on the go, online, and at the office. Founded in 2005 by Michael Gokturk, VersaPay is a Canadian owned and operated national financial transaction services provider partnered with Chase Paymentech. Versapay also offers electronic funds transfer through a system called Versapay EMT.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1208-versapay-corporation.jpg",
+			"humanURL": "http://developers.versapay.com/index.html",
+			"baseURL": "https://secure.versapay.com//",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/versapay/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PayJunction",
+			"x-api-slug": "payjunction",
+			"description": "PayJunction is a Level 1 PCI Compliant Service Provider that services thousands of businesses in every state in the United States. Since 2000, PayJunction has rapidly become a leading developer and provider of cutting edge merchant technology. PayJunction has also formed strategic alliances with leading financial institutions and technology partners to deliver the most comprehensive services in the industry.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/payjunction-logo.png",
+			"humanURL": "http://payjunction.com/",
+			"baseURL": "https://example.com//",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/payjunction/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OneNote",
+			"x-api-slug": "onenote",
+			"description": "Microsoft OneNote (formerly called Microsoft Office OneNote) is a computer program for free-form information gathering and multi-user collaboration. It gathers users notes (handwritten or typed), drawings, screen clippings and audio commentaries. Notes can be shared with other OneNote users over the Internet or a network. OneNote is available as a part of the Microsoft Office suite. It is also available as a free stand-alone application for Windows, Mac, Windows RT, Windows Phone, iOS, Android and Symbian.[4] A web-based version of OneNote is provided as part of OneDrive or Office Online and enables users to edit notes via a web browser.",
+			"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png",
+			"humanURL": "http://onenote.com",
+			"baseURL": "https://www.onenote.com//api/v1.0/me/notes/",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/onenote/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Flickr",
+			"x-api-slug": "flickr",
+			"description": "Flickr (pronounced flicker) is an image hosting and video hosting website, and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo in 2005. In addition to being a popular website for users to share and embed personal photographs, and effectively an online community, the service is widely used by photo researchers and by bloggers to host images that they embed in blogs and social media.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flickr-logo.jpg",
+			"humanURL": "http://www.flickr.com/",
+			"baseURL": "https://api.flickr.com//services/",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/flickr/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "YouTube",
+			"x-api-slug": "youtube",
+			"description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11515-youtube.jpg",
+			"humanURL": "https://www.youtube.com/",
+			"baseURL": "https://www.googleapis.com//youtube/v1",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/youtube/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pivotal Tracker",
+			"x-api-slug": "pivotal-tracker",
+			"description": "Pivotal Tracker is the agile project management tool of choice for developers around the world for real-time collaboration around a shared, prioritized backlog.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11526-pivotal-tracker.jpg",
+			"humanURL": "http://pivotaltracker.com",
+			"baseURL": "https://www.pivotaltracker.com//services/v3/",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/pivotal-tracker/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Taxamo",
+			"x-api-slug": "taxamo",
+			"description": "We make global digital VAT/GST compliance possible. #DigitalTax #DigiTax #TaxTrends",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18644-taxamo.jpg",
+			"humanURL": "https://www.taxamo.com/",
+			"baseURL": "https://api.taxamo.com//",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/taxamo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "IDX Broker",
+			"x-api-slug": "idx-broker",
+			"description": "Based in Eugene, OR, IDX, LLC is nationally known as a leading provider of real estate search applications. IDX, LLC actively manages more than $2 trillion worth of active listing data from more than 600 individual Multiple Listings Services (MLS). IDX, LLC provides integrated IDX software, customizable listing search utilities and lead management tools for real estate based websites (IDX Broker).",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/idx-broker.png",
+			"humanURL": "http://www.idxbroker.com",
+			"baseURL": "https://example.com//",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/idx-broker/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HERE",
+			"x-api-slug": "here",
+			"description": "HERE Technologies enables people, enterprises and cities around the world to harness the power of location and create innovative solutions that make our lives safer and more efficient. We transform information from devices, vehicles, infrastructure and...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20089-here-maps.jpg",
+			"humanURL": "https://developer.here.com",
+			"baseURL": "https://weather.cit.api.here.com//weather/1.0",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/here/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "New Relic",
+			"x-api-slug": "new-relic",
+			"description": "New Relic???s digital intelligence platform lets developers, ops, and tech teams measure and monitor the performance of their applications and infrastructure.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22963-new-relic.jpg",
+			"humanURL": "https://newrelic.com/",
+			"baseURL": "https:///v2/",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/new-relic/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS S3",
+			"x-api-slug": "aws-s3",
+			"description": "Amazon Simple Storage Service (Amazon S3) is object storage with a simple web service interface to store and retrieve any amount of data from anywhere on the web. It is designed to deliver 99.999999999% durability, and scale past trillions of objects worldwide.Customers use S3 as a bulk repository, or data lake, for analytics; backup &amp; recovery; disaster recovery; and serverless computing. Many cloud-native applications even use S3 as primary storage.Its simple to move large volumes of data into or out of S3 with Amazonscloud data migrationoptions. Once data is stored in Amazon S3, it can be automatically tiered into lower cost, longer-termcloud storageclasses like S3 Standard - Infrequent Access and Amazon Glacier for archiving.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AmazonS3.png",
+			"humanURL": "https://aws.amazon.com/s3/",
+			"baseURL": "https:////",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/aws-s3/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS OpsWorks",
+			"x-api-slug": "aws-opsworks",
+			"description": "AWS OpsWorks is a configuration management service that uses Chef, an automation platform that treats server configurations as code. OpsWorks uses Chef to automate how servers are configured, deployed, and managed across your Amazon Elastic Compute Cloud (Amazon EC2) instances or on-premises compute environments. OpsWorks has two offerings, AWS Opsworks for Chef Automate, and AWS OpsWorks Stacks.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSOpsWorks.png",
+			"humanURL": "https://aws.amazon.com/opsworks/",
+			"baseURL": ":///",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/aws-opsworks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Identity and Access Management",
+			"x-api-slug": "aws-identity-and-access-management",
+			"description": "AWS Identity and Access Management (IAM) enables you to securely control access to AWS services and resources for your users. Using IAM, you can create and manage AWS users and groups, and use permissions to allow and deny their access to AWS resources.IAM is a feature of your AWS account offered at no additional charge. You will be charged only for use of other AWS services by your users.To get started using IAM, orif you have already registered with AWS, go to theAWS Management Consoleand get started with theseIAM Best Practices.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSIAM.png",
+			"humanURL": "https://aws.amazon.com/iam/",
+			"baseURL": ":///",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/aws-identity-and-access-management/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Route 53",
+			"x-api-slug": "aws-route-53",
+			"description": "Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service. It is designed to give developers and businesses an extremely reliable and cost effective way to route end users to Internet applications by translating names like www.example.com into the numeric IP addresses like 192.0.2.1 that computers use to connect to each other. Amazon Route 53 is fully compliant with IPv6 as well.Amazon Route 53 effectively connects user requests to infrastructure running in AWS &ndash; such as Amazon EC2 instances, Elastic Load Balancing load balancers, or Amazon S3 buckets &ndash; and can also be used to route users to infrastructure outside of AWS. You can use Amazon Route 53 to configure DNS health checks to route traffic to healthy endpoints or to independently monitor the health of your application and its endpoints. Amazon Route 53 Traffic Flow makes it easy for you to manage traffic globally through a variety of routing types, including Latency Based Routing, Geo DNS, and Weighted Round Robin&mdash;all of which can be combined with DNS Failover in order to enable a variety of low-latency, fault-tolerant architectures. Using Amazon Route 53 Traffic Flow&rsquo;s simple visual editor, you can easily manage how your end-users are routed to your application&rsquo;s endpoints&mdash;whether in a single AWS region or distributed around the globe. Amazon Route 53 also offers Domain Name Registration &ndash; you can purchase and manage domain names such as example.com and Amazon Route 53 will automatically configure DNS settings for your domains.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Networking_AmazonRoute53.png",
+			"humanURL": "https://aws.amazon.com/route53/",
+			"baseURL": ":///",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/aws-route-53/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Doubleclick",
+			"x-api-slug": "google-doubleclick",
+			"description": "The Ad Exchange Buyer REST API allows your Real-Time Bidding application to access and update account information and to submit creatives. The API also allows an application (whether it does static bidding or real-time bidding) to discover direct deals that sellers make available.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-double-click.png",
+			"humanURL": "https://www.doubleclickbygoogle.com/",
+			"baseURL": "https:///",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/google-doubleclick/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Microsoft Graph",
+			"x-api-slug": "microsoft-graph",
+			"description": "Microsoft Graph exposes multiple APIs from Office 365 and other Microsoft cloud services through a single endpoint: https://graph.microsoft.com. Microsoft Graph simplifies queries that would otherwise be more complex. You can use Microsoft Graph to: Access data from multiple Microsoft cloud services, including Azure Active Directory, Exchange Online as part of Office 365, SharePoint, OneDrive, OneNote, and Planner. Navigate between entities and relationships. Access intelligence and insights from the Microsoft cloud (for commercial users).",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/microsoft-graph.png",
+			"humanURL": "https://developer.microsoft.com/en-us/graph/",
+			"baseURL": "https://graph.microsoft.com//",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/microsoft-graph/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Rebilly",
+			"x-api-slug": "rebilly",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png",
+			"humanURL": "https://www.rebilly.com",
+			"baseURL": "https://api.rebilly.com//v2.1",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/rebilly/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SalesLoft",
+			"x-api-slug": "salesloft",
+			"description": "SalesLoft, the leading sales engagement platform, transforms the way sellers engage with their customers by delivering a better selling experience. Our sales engagement platform helps teams set and execute on a cadence of phone, email, and social communications to convert more target accounts into customer accounts. The platform equips sales leaders with new capabilities to test, learn and adapt to ensure their sales reps execute on the most effective selling process for their account-based approach. SalesLoft delivers access to an extensive ecosystem of 3rd party integrations allowing teams to perform all their sales engagement from a single platform.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/salesloft.png",
+			"humanURL": "http://salesloft.com",
+			"baseURL": "https://api.salesloft.com//",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/salesloft/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Click Meter",
+			"x-api-slug": "click-meter",
+			"description": "ClickMeter was founded in 2012 as a byproduct of an experienced web-marketing agency. The ClickMeter System was initially a web tool created to address the needs of our agency to precisely count and track the web-marketing actions we performed for our customers.The system evolved rapidly, and emerged as one of the most widely used software solutions in our agency to collect, analyze, and share data for and with our customers. After few years after the development of the first ClickMeter system, we decided to go live with a service that can be useful to everyone involved in web-marketing activities.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clickmeter-logo.png",
+			"humanURL": "http://clickmeter.com",
+			"baseURL": "https://apiv2.clickmeter.com:80//",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/click-meter/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Data2CRM",
+			"x-api-slug": "data2crm",
+			"description": "Data2CRM is all-in-one master touch instrument to create the perfect data environment for prosperous internal and external connections.Data2CRM.API, a Unified API Provider, to Connect Your Business Software with 17+ CRMs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/data2crm-logo.png",
+			"humanURL": "http://data2crm.com",
+			"baseURL": "https://api.data2crm.com:80//v1",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/data2crm/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Fire Browse",
+			"x-api-slug": "fire-browse",
+			"description": "A simple and elegant way to explore cancer data. Sitting above one of the deepest and most integratively characterized open cancer datasets in the world. Backed by a powerful computational infrastructure, application programming interface (API), graphical tools and online reports. With over 80K sample aliquots from 11,000+ cancer patients, spanning 38 unique disease cohorts.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/firebrowse.png",
+			"humanURL": "http://firebrowse.org",
+			"baseURL": "https://firebrowse.org//api/v1",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/fire-browse/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Predix",
+			"x-api-slug": "predix",
+			"description": "Predix (IoT PaaS) helps you develop apps that connect people with industrial machines through analytics and data for better business outcomes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png",
+			"humanURL": "https://www.predix.io",
+			"baseURL": "https:////v1",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/predix/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "NxtPort",
+			"x-api-slug": "nxtport",
+			"description": "NxtPort opens the gates to the Port of the future. This project is a milestone in the digitalization of logistics and cargo.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28835-www-nxtport-eu.jpg",
+			"humanURL": "https://www.nxtport.eu",
+			"baseURL": "https://api-sb.nxtport.eu//PortCallPlus/v1",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/nxtport/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GitLab",
+			"x-api-slug": "gitlab",
+			"description": "GitLab is a web-based Git-repository manager with wiki, issue-tracking and CI/CD pipelines features, using an open-source license, developed by GitLab Inc.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/githlab-logo.png",
+			"humanURL": "http://gitlab.com",
+			"baseURL": "https://localhost:3000//api",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/gitlab/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "LogMeIn",
+			"x-api-slug": "logmein",
+			"description": "LogMeIn, Inc. is a provider of software as a service and cloud-based remote connectivity services for collaboration, IT management and customer engagement, founded in 2003 and based in Boston, Massachusetts.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28873-www-logmeininc-com.jpg",
+			"humanURL": "http://www.LogMeInInc.com",
+			"baseURL": "https://api.getgo.com//G2W/rest/organizers",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/logmein/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Notes",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Notes",
+	"include": [
+		{
+			"name": "Twilio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/twilio/apis.yaml"
+		},
+		{
+			"name": "Evernote",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/evernote/apis.yaml"
+		},
+		{
+			"name": "Facebook",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/facebook/apis.yaml"
+		},
+		{
+			"name": "Stripe",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/stripe/apis.yaml"
+		},
+		{
+			"name": "MasterCard",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/mastercard/apis.yaml"
+		},
+		{
+			"name": "BigOven",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/bigoven/apis.yaml"
+		},
+		{
+			"name": "Atlassian",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/atlassian/apis.yaml"
+		},
+		{
+			"name": "VersaPay",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/versapay/apis.yaml"
+		},
+		{
+			"name": "PayJunction",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/payjunction/apis.yaml"
+		},
+		{
+			"name": "OneNote",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/onenote/apis.yaml"
+		},
+		{
+			"name": "Flickr",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/flickr/apis.yaml"
+		},
+		{
+			"name": "YouTube",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/youtube/apis.yaml"
+		},
+		{
+			"name": "Pivotal Tracker",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/pivotal-tracker/apis.yaml"
+		},
+		{
+			"name": "Taxamo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/taxamo/apis.yaml"
+		},
+		{
+			"name": "IDX Broker",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/idx-broker/apis.yaml"
+		},
+		{
+			"name": "HERE",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/here/apis.yaml"
+		},
+		{
+			"name": "New Relic",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/new-relic/apis.yaml"
+		},
+		{
+			"name": "AWS S3",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/aws-s3/apis.yaml"
+		},
+		{
+			"name": "AWS OpsWorks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/aws-opsworks/apis.yaml"
+		},
+		{
+			"name": "AWS Identity and Access Management",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/aws-identity-and-access-management/apis.yaml"
+		},
+		{
+			"name": "AWS Route 53",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/aws-route-53/apis.yaml"
+		},
+		{
+			"name": "Google Doubleclick",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/google-doubleclick/apis.yaml"
+		},
+		{
+			"name": "Microsoft Graph",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/microsoft-graph/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "Rebilly",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/rebilly/apis.yaml"
+		},
+		{
+			"name": "SalesLoft",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/salesloft/apis.yaml"
+		},
+		{
+			"name": "Click Meter",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/click-meter/apis.yaml"
+		},
+		{
+			"name": "Data2CRM",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/data2crm/apis.yaml"
+		},
+		{
+			"name": "Fire Browse",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/fire-browse/apis.yaml"
+		},
+		{
+			"name": "Predix",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/predix/apis.yaml"
+		},
+		{
+			"name": "NxtPort",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/nxtport/apis.yaml"
+		},
+		{
+			"name": "GitLab",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/gitlab/apis.yaml"
+		},
+		{
+			"name": "LogMeIn",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/logmein/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/notes/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}
